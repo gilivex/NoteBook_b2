@@ -37,3 +37,7 @@ test
 
 # vsCode config files
 **/.vscode
+
+
+cmake-build-debug
+.idea
