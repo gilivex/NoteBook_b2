@@ -39,5 +39,5 @@ test
 **/.vscode
 
 
-cmake-build-debug
-.idea
+*/cmake-build-debug
+*/.idea
